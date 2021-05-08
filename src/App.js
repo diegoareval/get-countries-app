@@ -59,7 +59,7 @@ function App() {
               >
                 <option value="select">Select</option>
                 <option value="europe">Europe</option>
-                <option value="america">America</option>
+                <option value="americas">America</option>
                 <option value="africa">Africa</option>
                 <option value="asia">Asia</option>
                 <option value="oceania">Oceania</option>
